@@ -110,9 +110,7 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 * Da las gracias públicamente 🤓.
 * etc. 
 
-## 📞 Get In Touch
 
-[![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:guillermo.torrez@gmail.com) [![](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)](https://sneyder.dev) [![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/guillermo.torrez@gmail.com)
 
 -👋 Hi, I’m @GuillermoTorrez
 - 👀 I’m interested in ...
@@ -124,3 +122,9 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 GuillermoTorrez/GuillermoTorrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## 📞 Get In Touch
+
+[![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:guillermo.torrez@gmail.com) [![](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)](https://sneyder.dev) [![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/guillermo-torrez-432aa3142)
+
+
