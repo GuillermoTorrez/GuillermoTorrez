@@ -1,8 +1,8 @@
 # PortFolio
 
-_Here you are finding diferent type of proyects
+Here you are finding diferent type of proyects
 
-## Comenzando 🚀
+## Where will start 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
