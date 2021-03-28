@@ -2,7 +2,7 @@
 
 # Diferents Proyects 
 
-Here you are finding diferent type of proyects
+Here you wil find diferent type of proyects
 
 ## Where will start 🚀
 
