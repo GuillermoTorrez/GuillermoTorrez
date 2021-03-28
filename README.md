@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/66857623/112770290-0beff700-8ff4-11eb-9568-04f90cbdb1ba.png
+![image](https://user-images.githubusercontent.com/66857623/112770290-0beff700-8ff4-11eb-9568-04f90cbdb1ba.png)
 
 # Diferents Proyects 
 
