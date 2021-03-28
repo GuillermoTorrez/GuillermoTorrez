@@ -1,6 +1,8 @@
 ![image](https://user-images.githubusercontent.com/66857623/112770290-0beff700-8ff4-11eb-9568-04f90cbdb1ba.png)
 
 🛠 My Stack
+![image](https://user-images.githubusercontent.com/66857623/112770624-83725600-8ff5-11eb-961d-f651c47f6287.png)
+
 
 # Diferents Proyects 
 
