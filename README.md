@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/66857623/112770290-0beff700-8ff4-11eb-9568-04f90cbdb1ba.png)
 
+🛠 My Stack
+
 # Diferents Proyects 
 
 Here you will find diferent type of proyects
