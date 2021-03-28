@@ -2,19 +2,7 @@
 
 🛠 My Stack
 
-![image](https://camo.githubusercontent.com/e7d38b8e502e20f282e10a4d126aaf16125e690771a6f37cb847beaa2f35fb93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074)
-![image](https://camo.githubusercontent.com/87595dd72f80e851f3e4365f286bccf4b778e005cd534be621c15cf0328be737/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35)
-![image](https://camo.githubusercontent.com/f66f3de759cf23e0dfa466459ddd5f92e0b0d66a0a8cddda98ed4982389fc749/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d313537324236)
-![image](https://camo.githubusercontent.com/6b74bf3795b0f288383f334821872af7f093fd3d183a09321d7a2df233520852/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374)
-![image](https://camo.githubusercontent.com/b8894c856b663aa3956291276338da4055969c05d2432aad09f4aa175c245323/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765627061636b2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d7765627061636b)
-![image](https://camo.githubusercontent.com/d84a0692d13447d01b7bf7d8459b84c466455d9cba6c64497cfcea9a291d7494/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657263656c2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c)
-![image](https://seeklogo.com/vector-logo/332789/python)
-
-
-
-
-
-
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6) ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass) ![Styled-components](https://img.shields.io/badge/Styled--components-000?style=for-the-badge&logo=styled-components) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack) ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
 
 # Diferents Proyects 
 
@@ -105,6 +93,10 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+
+## My GitHub's Stats
+
+![Sneyder Barreto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoTorrez&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true)
 
 ## Licencia 📄
 
