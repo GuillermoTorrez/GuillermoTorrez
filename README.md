@@ -96,7 +96,7 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## My GitHub's Stats
 
-![Sneyder Barreto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoTorrez&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true)
+![GuillermoTorrez GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoTorrez&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true)
 
 ## Licencia 📄
 
