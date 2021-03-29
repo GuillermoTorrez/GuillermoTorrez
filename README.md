@@ -72,19 +72,17 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 - 📫 How to reach me ...
 GuillermoTorrez/GuillermoTorrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. Todo el parrafo esta comentariado
+## Construido con 🛠️
+_Agrega notas adicionales sobre como hacer deploy_
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 ---> 
 
 # Deploy on Vercel  📦
 The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
 Check out our Next.js deployment documentation for more details.
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
 ## My GitHub's Stats
 
