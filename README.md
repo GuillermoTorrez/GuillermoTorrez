@@ -74,11 +74,19 @@ GuillermoTorrez/GuillermoTorrez is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes. Todo el parrafo esta comentariado
 ---> 
 
+# Deploy on Nextjs 📦
+
+_Agrega notas adicionales sobre como hacer deploy_
+
+## Construido con 🛠️
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+
 ## My GitHub's Stats
 
 ![GuillermoTorrez GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoTorrez&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true)
-
-
 
 ## 📞 Get In Touch
 
