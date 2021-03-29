@@ -74,7 +74,9 @@ GuillermoTorrez/GuillermoTorrez is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes. Todo el parrafo esta comentariado
 ---> 
 
-# Deploy on Nextjs 📦
+# Deploy on Vercel  📦
+The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
+Check out our Next.js deployment documentation for more details.
 
 _Agrega notas adicionales sobre como hacer deploy_
 
