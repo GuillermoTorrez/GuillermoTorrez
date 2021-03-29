@@ -90,6 +90,6 @@ Check out our Next.js deployment documentation for more details.
 
 ## 📞 Get In Touch
 
-[![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:guillermo.torrez@gmail.com) [![](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)](https://sneyder.dev) [![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/guillermo-torrez-432aa3142)
+[![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:guillermo.torrez@gmail.com) [![](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)](https://my-sample-portfolio-git-main-guillermotorrez.vercel.app/blog) [![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/guillermo-torrez-432aa3142)
 
 
