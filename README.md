@@ -1,6 +1,4 @@
-![image](https://user-images.githubusercontent.com/66857623/112770290-0beff700-8ff4-11eb-9568-04f90cbdb1ba.png)
-
-🛠 My Stack
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6) ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass) ![Styled-components](https://img.shields.io/badge/Styled--components-000?style=for-the-badge&logo=styled-components) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack) ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel) 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python) ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=Django)  ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask) ![Mongodb](https://img.shields.io/badge/Mongodb-000?style=for-the-badge&logo=Mongodb) ![Postgresql](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=Postgresql)
