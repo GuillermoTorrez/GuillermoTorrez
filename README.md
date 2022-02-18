@@ -1,4 +1,4 @@
-![image text](https://user-images.githubusercontent.com/66857623/154593273-589f3329-f72e-4f6c-a16c-8fe1c269a060.png | width=50)
+<img src="(https://user-images.githubusercontent.com/66857623/154593273-589f3329-f72e-4f6c-a16c-8fe1c269a060.png" width=50% height=50%>
 
 # Relevant Projects:
 
