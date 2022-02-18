@@ -10,7 +10,7 @@
 
 - [GuillermoTorrez/WALTMART-PREDICT](https://github.com/GuillermoTorrez/WALTMART-PREDICT) Sales prediction in Python using linear regression with high accuracy.
 
-  #### Award one Start:
+  #### Award a ![imagen](https://user-images.githubusercontent.com/66857623/154747838-1e9ab423-2858-4682-b136-bffbfc4de114.png):
 - [GuillermoTorrez/WALTMART-PREDICT](https://github.com/GuillermoTorrez/WALTMART-PREDICT) Competetion 
 
 ## Big Data: SQL - Hadoop, Hive
