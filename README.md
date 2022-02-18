@@ -1,14 +1,16 @@
+![image text](https://user-images.githubusercontent.com/66857623/154593273-589f3329-f72e-4f6c-a16c-8fe1c269a060.png)
+
 # Relevant Projects:
 
-<img src="icon.png" align="right" />
-![image text](https://user-images.githubusercontent.com/66857623/154593273-589f3329-f72e-4f6c-a16c-8fe1c269a060.png)
+
+
 
 ## Data Science:
 
-- [ai/size-limit](https://github.com/ai/size-limit#readme) - Bank database implementation in SQL by loading and organizing client’s information in relational database
-
+- [ai/size-limit](https://github.com/ai/size-limit#readme) -Text comment classification (natural language processing) in Python using nltk package and Adaboost, random forest, Decision Tree, SVM and logistic regression models The output results showing the accuracy above 94%.
 
 ## Web Developer:
+
 
 
 
