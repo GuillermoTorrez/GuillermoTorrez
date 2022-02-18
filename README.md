@@ -9,14 +9,17 @@
 
 - [ai/size-limit](https://github.com/ai/size-limit#readme) -Text comment classification (natural language processing) in Python using nltk package and Adaboost, random forest, Decision Tree, SVM and logistic regression models The output results showing the accuracy above 94%.
 
-## Web Developer:
-
-
 
 
 ## Big Data: SQL - Hadoop, Hive
 
 - [GuillermoTorrez/SQL_Database](https://github.com/GuillermoTorrez/SQL_Database) - Bank database implementation in SQL by loading and organizing client’s information in relational database.
+
+## Web Developer:
+
+
+
+
 
 ## My GitHub's Stats
 
