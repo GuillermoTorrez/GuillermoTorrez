@@ -15,7 +15,7 @@
 - [GuillermoTorrez/SQL_Database](https://github.com/GuillermoTorrez/SQL_Database) - Bank database implementation in SQL by loading and organizing client’s information in relational database.
 
 ## Visualization: Dashboard - Tableau
-- [GuillermoTorrez/Dashboard(https://github.com/GuillermoTorrez/DASHBOARD) - DashBoard in Tableau making out diferent ratios.
+- [GuillermoTorrez/Dashboard(https://github.com/GuillermoTorrez/DASHBOARD) - DashBoard in Tableau making out diferents ratios.
 
 ## Web Developer:
 <img src="https://user-images.githubusercontent.com/66857623/154735934-cb6fe619-a803-484f-b03a-b9ccbbfb9e57.png" alt="Your image title" width="450"/>
