@@ -6,9 +6,9 @@
 
 - [GuillermoTorrez/NLP-NLTK](https://github.com/GuillermoTorrez/NLP-NLTK) -Text comment classification (natural language processing) in Python using nltk package and Adaboost, Random Forest, Decision Tree, SVM and Logistic Regression models The output results showing the accuracy above 94%.
 
-- [GuillermoTorrez/IMAGE_CLASSIFICATION](https://github.com/ai/GuillermoTorrez/IMAGE_CLASSIFICATION) Image categorization in Python using Random forest, SVM, Logistic Regression with high accuracy.
+- [GuillermoTorrez/IMAGE_CLASSIFICATION](https://github.com/GuillermoTorrez/IMAGE_CLASSIFICATION) Image categorization in Python using Random forest, SVM, Logistic Regression with high accuracy.
 
-- [GuillermoTorrez/IMAGE_CLASSIFICATION](https://github.com/ai/GuillermoTorrez/IMAGE_CLASSIFICATION) Product price prediction in Python using linear regression with high accuracy.
+- [GuillermoTorrez/WALTMART-PREDICT](https://github.com/GuillermoTorrez/WALTMART-PREDICT) Product price prediction in Python using linear regression with high accuracy.
 
 ## Big Data: SQL - Hadoop, Hive
 
