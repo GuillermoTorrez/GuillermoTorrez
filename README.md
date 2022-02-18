@@ -10,6 +10,10 @@
 
 - [GuillermoTorrez/WALTMART-PREDICT](https://github.com/GuillermoTorrez/WALTMART-PREDICT) Sales prediction in Python using linear regression with high accuracy.
 
+#### Award one Start:
+- [GuillermoTorrez/WALTMART-PREDICT](https://github.com/GuillermoTorrez/WALTMART-PREDICT) Competetion 
+
+
 ## Big Data: SQL - Hadoop, Hive
 
 - [GuillermoTorrez/SQL_Database](https://github.com/GuillermoTorrez/SQL_Database) - Bank database implementation in SQL by loading and organizing client’s information in relational database.
