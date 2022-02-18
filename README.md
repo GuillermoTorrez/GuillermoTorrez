@@ -8,7 +8,7 @@
 
 - [GuillermoTorrez/IMAGE_CLASSIFICATION](https://github.com/GuillermoTorrez/IMAGE_CLASSIFICATION) Image categorization in Python using Random forest, SVM, Logistic Regression with high accuracy.
 
-- [GuillermoTorrez/WALTMART-PREDICT](https://github.com/GuillermoTorrez/WALTMART-PREDICT) Product price prediction in Python using linear regression with high accuracy.
+- [GuillermoTorrez/WALTMART-PREDICT](https://github.com/GuillermoTorrez/WALTMART-PREDICT) Sales prediction in Python using linear regression with high accuracy.
 
 ## Big Data: SQL - Hadoop, Hive
 
