@@ -8,6 +8,8 @@
 
 - [GuillermoTorrez/IMAGE_CLASSIFICATION](https://github.com/ai/GuillermoTorrez/IMAGE_CLASSIFICATION) Image categorization in Python using Random forest, SVM, Logistic Regression with high accuracy.
 
+- [GuillermoTorrez/IMAGE_CLASSIFICATION](https://github.com/ai/GuillermoTorrez/IMAGE_CLASSIFICATION) Product price prediction in Python using linear regression with high accuracy.
+
 ## Big Data: SQL - Hadoop, Hive
 
 - [GuillermoTorrez/SQL_Database](https://github.com/GuillermoTorrez/SQL_Database) - Bank database implementation in SQL by loading and organizing client’s information in relational database.
