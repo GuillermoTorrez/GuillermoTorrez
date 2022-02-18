@@ -4,13 +4,13 @@
 
 ## Data Science:
 
-- [GuillermoTorrez/NLP-NLTK](https://github.com/GuillermoTorrez/NLP-NLTK) -Text comment classification (natural language processing) in Python using nltk package and Adaboost, Random Forest, Decision Tree, SVM and Logistic Regression models The output results showing the accuracy above 94%.
+- [GuillermoTorrez/NLP-NLTK](https://github.com/GuillermoTorrez/NLP-NLTK) Text comment classification (natural language processing) in Python using nltk package and Adaboost, Random Forest, Decision Tree, SVM and Logistic Regression models The output results showing the accuracy above 94%.
 
 - [GuillermoTorrez/IMAGE_CLASSIFICATION](https://github.com/GuillermoTorrez/IMAGE_CLASSIFICATION) Image categorization in Python using Random forest, SVM, Logistic Regression with high accuracy.
 
 - [GuillermoTorrez/WALTMART-PREDICT](https://github.com/GuillermoTorrez/WALTMART-PREDICT) Sales prediction in Python using linear regression with high accuracy.
 
-  #### Award a <img src="https://user-images.githubusercontent.com/66857623/154747838-1e9ab423-2858-4682-b136-bffbfc4de114.png" alt="Your image title" width="25"/>:
+  #### Award <img src="https://user-images.githubusercontent.com/66857623/154747838-1e9ab423-2858-4682-b136-bffbfc4de114.png" alt="Your image title" width="25"/>:
 - [GuillermoTorrez/ShopifyChallenge2022](https://github.com/GuillermoTorrez/ShopifyChallenge2022) Shopyfy Internship Challenge 2022. 
 
 ## Big Data: SQL - Hadoop, Hive
