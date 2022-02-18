@@ -10,9 +10,8 @@
 
 - [GuillermoTorrez/WALTMART-PREDICT](https://github.com/GuillermoTorrez/WALTMART-PREDICT) Sales prediction in Python using linear regression with high accuracy.
 
-
-  #### Award a <img src="https://user-images.githubusercontent.com/66857623/154747838-1e9ab423-2858-4682-b136-bffbfc4de114.png" alt="Your image title" width="10"/>:
-- [GuillermoTorrez/WALTMART-PREDICT](https://github.com/GuillermoTorrez/WALTMART-PREDICT) Competetion 
+  #### Award a <img src="https://user-images.githubusercontent.com/66857623/154747838-1e9ab423-2858-4682-b136-bffbfc4de114.png" alt="Your image title" width="20"/>:
+- [GuillermoTorrez/ShopifyChallenge2022](https://github.com/GuillermoTorrez/ShopifyChallenge2022) Shopyfy Challenge 2022 Internship. 
 
 ## Big Data: SQL - Hadoop, Hive
 
