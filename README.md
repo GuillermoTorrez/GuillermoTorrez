@@ -5,16 +5,18 @@
 
 ## Data Science:
 
-- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
-
+- [ai/size-limit](https://github.com/ai/size-limit#readme) - Bank database implementation in SQL by loading and organizing client’s information in relational database
 
 
 ## Web Developer:
 
 
 
+## Big Data: SQL - Hadoop, Hive
 
-## SQL - Hadoop, Hive
+- [GuillermoTorrez/SQL_Database](https://github.com/GuillermoTorrez/SQL_Database) - Bank database implementation in SQL by loading and organizing client’s information in relational database.
+
+
 
 
 
