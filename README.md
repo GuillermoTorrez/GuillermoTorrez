@@ -6,7 +6,7 @@
 
 - [ai/size-limit](https://github.com/ai/size-limit#readme) -Text comment classification (natural language processing) in Python using nltk package and Adaboost, Random Forest, Decision Tree, SVM and Logistic Regression models The output results showing the accuracy above 94%.
 
-- [ai/size-limit](https://github.com/ai/size-limit#readme) Image categorization in Python using random forest, SVM, logistic regression with high accuracy
+- [ai/size-limit](https://github.com/ai/size-limit#readme) Image categorization in Python using random forest, SVM, logistic regression with high accuracy.
 
 ## Big Data: SQL - Hadoop, Hive
 
