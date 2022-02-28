@@ -24,7 +24,8 @@
 - [GuillermoTorrez/Dashboard](https://github.com/GuillermoTorrez/DASHBOARD) - DashBoard in Tableau making out diferents ratios.
 
 ## Web Developer:
-<img src="https://user-images.githubusercontent.com/66857623/154735934-cb6fe619-a803-484f-b03a-b9ccbbfb9e57.png" alt="Your image title" width="450"/>
+
+- [GuillermoTorrez/SQL_Database](https://github.com/GuillermoTorrez/SQL_Database) Python - framework Django.
 
 ## My GitHub's Stats
 ![GuillermoTorrez GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoTorrez&show_icons=true&title_color=fff&bg_color=80,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true)
