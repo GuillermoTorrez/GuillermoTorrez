@@ -27,7 +27,7 @@
 
 ## Web Developer:
 
-- [GuillermoTorrez/crmprojects](https://github.com/GuillermoTorrez/crmprojects) Python - framework Django.
+- [GuillermoTorrez/crmprojects](https://github.com/GuillermoTorrez/crmproyects) Python - framework Django.
 
 ## My GitHub's Stats
 ![GuillermoTorrez GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoTorrez&show_icons=true&title_color=fff&bg_color=80,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true)
