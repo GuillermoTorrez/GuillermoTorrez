@@ -12,12 +12,9 @@
 - [GuillermoTorrez/WALTMART-PREDICT](https://github.com/GuillermoTorrez/WALTMART-PREDICT) Sales prediction Walmart in Python using linear regression with high accuracy.
 
 - [GuillermoTorrez/HOUSE-PRICE](https://github.com/GuillermoTorrez/HOUSE-PRICE) Housing Prices Prediction Project using diferente models.
-
-  <img src="https://user-images.githubusercontent.com/66857623/154747838-1e9ab423-2858-4682-b136-bffbfc4de114.png" alt="Your image title" width="25"/>
-  #### Award
   
-- [GuillermoTorrez/ShopifyChallenge2022](https://github.com/GuillermoTorrez/ShopifyChallenge2022) Shopyfy Internship Challenge 2022. 
-
+- [GuillermoTorrez/ShopifyChallenge2022](https://github.com/GuillermoTorrez/ShopifyChallenge2022) Shopyfy Internship Challenge 2022. <img src="https://user-images.githubusercontent.com/66857623/154747838-1e9ab423-2858-4682-b136-bffbfc4de114.png" alt="Your image title" width="25"/>
+  
 ## Big Data: SQL - Hadoop, Hive
 
 - [GuillermoTorrez/SQL_Database](https://github.com/GuillermoTorrez/SQL_Database) - Bank database implementation in SQL by loading and organizing client’s information in relational database.
