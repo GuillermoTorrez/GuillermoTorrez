@@ -38,4 +38,4 @@
 
 📞 Get In Touch
 
-[![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:guillermo.torrez@gmail.com) [![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/guillermotorrez)
+[![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:guillermo.torrez@gmail.com)
