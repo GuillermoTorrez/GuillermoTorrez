@@ -28,15 +28,12 @@
 
 - [GuillermoTorrez/flask-crud-contacts](https://github.com/GuillermoTorrez/flask-crud-contacts) Python - Flask - Simple CRUD Contacts.
 
-- [GuillermoTorrez/web302-assignment1-part2-mvc-crud-flask-app-GuillermoTorrez](https://github.com/GuillermoTorrez/web302-assignment1-part2-mvc-crud-flask-app-GuillermoTorrez) Python - Flask - Seneca Flask Assigment CRUD.
+- [GuillermoTorrez/web302-assignment1-part2-mvc-crud-flask-app-GuillermoTorrez](https://github.com/GuillermoTorrez/web302-assignment1-part2-mvc-crud-flask-app-GuillermoTorrez) Python - Flask - Flask Assigment I.
 
-- 
+- [GuillermoTorrez/web302-assignment2-part2-django-app-GuillermoTorrez](https://github.com/GuillermoTorrez/web302-assignment2-part2-django-app-GuillermoTorrez) Python - Flask - Django Assigment II.
 
 ## My GitHub's Stats
 ![GuillermoTorrez GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoTorrez&show_icons=true&title_color=fff&bg_color=80,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true)
-
-
-
 
 
 📞 Get In Touch
