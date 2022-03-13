@@ -26,8 +26,14 @@
 
 - [GuillermoTorrez/crmprojects](https://github.com/GuillermoTorrez/crmproyects) Python - framework Django.
 
+- [GuillermoTorrez/flask-crud-contacts](https://github.com/GuillermoTorrez/flask-crud-contacts) Python - Flask - Simple CRUD Contacts.
+
 ## My GitHub's Stats
 ![GuillermoTorrez GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoTorrez&show_icons=true&title_color=fff&bg_color=80,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true)
+
+
+
+
 
 📞 Get In Touch
 
