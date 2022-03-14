@@ -2,7 +2,7 @@
 
 # Data Science: <img src="https://user-images.githubusercontent.com/66857623/154593273-589f3329-f72e-4f6c-a16c-8fe1c269a060.png" alt="Your image title" width="250"/>
 
-- [GuillermoTorrez/NLP-NLTK](https://github.com/GuillermoTorrez/NLP-NLTK) Text comment classification (natural language processing) in Python using nltk package and Adaboost, Random Forest, Decision Tree, SVM and Logistic Regression models The output results showing the accuracy above 94%. using Google Colab. <img src="https://user-images.githubusercontent.com/66857623/154593273-589f3329-f72e-4f6c-a16c-8fe1c269a060.png" alt="Your image title" width="250"/>
+- [GuillermoTorrez/NLP-NLTK](https://github.com/GuillermoTorrez/NLP-NLTK) Text comment classification (natural language processing) in Python using nltk package and Adaboost, Random Forest, Decision Tree, SVM and Logistic Regression models The output results showing the accuracy above 94%. in <img src="https://user-images.githubusercontent.com/66857623/158089003-41cb6f8a-80da-46ae-9c3b-cfcc1a37a22b.png" alt="Your image title" width="40"/>
 
 - [GuillermoTorrez/IMAGE_CLASSIFICATION](https://github.com/GuillermoTorrez/IMAGE_CLASSIFICATION) Image categorization in Python using Random forest, SVM, Logistic Regression with high accuracy.
 
@@ -12,13 +12,13 @@
   
 - [GuillermoTorrez/ShopifyChallenge2022](https://github.com/GuillermoTorrez/ShopifyChallenge2022) Shopyfy Internship Challenge 2022. <img src="https://user-images.githubusercontent.com/66857623/154747838-1e9ab423-2858-4682-b136-bffbfc4de114.png" alt="Your image title" width="25"/>
   
-## Big Data: SQL - Hadoop, Bigquery, Apache Spark <img src="https://user-images.githubusercontent.com/66857623/158087721-e1cdee66-37b4-4fe3-bf12-3de45140723c.png" alt="Your image title" width="50"/> <img src="https://user-images.githubusercontent.com/66857623/158087416-0a599233-a448-41d4-a109-2d8f5b6426e2.png" alt="Your image title" width="60"/>
+## Big Data: SQL - Hadoop, Bigquery, Apache Spark <img src="https://user-images.githubusercontent.com/66857623/158087721-e1cdee66-37b4-4fe3-bf12-3de45140723c.png" alt="Your image title" width="40"/>
 
 - [GuillermoTorrez/SQL_Database](https://github.com/GuillermoTorrez/SQL_Database) - Bank database implementation in SQL by loading and organizing client’s information in relational database.
 
 - Hadoop, BigQuery and Apache Spark. <img src="https://user-images.githubusercontent.com/66857623/158088114-867fb7e4-9daf-4822-b6dc-801d81b5689f.png" alt="Your image title" width="70"/> 
 
-## Visualization: Dashboard - Tableau <img src="https://user-images.githubusercontent.com/66857623/158086856-37ad5047-1684-4a63-a3ec-c6cbf398b903.png" alt="Your image title" width="50"/>
+## Visualization: Dashboard - <img src="https://user-images.githubusercontent.com/66857623/158086856-37ad5047-1684-4a63-a3ec-c6cbf398b903.png" alt="Your image title" width="70"/>
 
 - [GuillermoTorrez/Dashboard](https://github.com/GuillermoTorrez/DASHBOARD) - DashBoard in Tableau making out diferents ratios.
 
