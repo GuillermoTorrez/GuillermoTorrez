@@ -3,7 +3,7 @@
 
 # Relevant Projects:
 
-## Data Science:
+## Data Science: <img src="https://user-images.githubusercontent.com/66857623/158087144-49cfc20f-0fcd-4433-92f4-59a85c1f0dac.png" alt="Your image title" width="60"/>
 
 - [GuillermoTorrez/NLP-NLTK](https://github.com/GuillermoTorrez/NLP-NLTK) Text comment classification (natural language processing) in Python using nltk package and Adaboost, Random Forest, Decision Tree, SVM and Logistic Regression models The output results showing the accuracy above 94%.
 
@@ -19,11 +19,11 @@
 
 - [GuillermoTorrez/SQL_Database](https://github.com/GuillermoTorrez/SQL_Database) - Bank database implementation in SQL by loading and organizing client’s information in relational database.
 
-## Visualization: Dashboard - Tableau <img src="https://user-images.githubusercontent.com/66857623/158086856-37ad5047-1684-4a63-a3ec-c6cbf398b903.png" alt="Your image title" width="70"/>
+## Visualization: Dashboard - Tableau <img src="https://user-images.githubusercontent.com/66857623/158086856-37ad5047-1684-4a63-a3ec-c6cbf398b903.png" alt="Your image title" width="60"/>
 
 - [GuillermoTorrez/Dashboard](https://github.com/GuillermoTorrez/DASHBOARD) - DashBoard in Tableau making out diferents ratios.
 
-## Web Developer: <img src="https://user-images.githubusercontent.com/66857623/158086615-8ba71ad3-b966-43c1-ab2b-da169244c19c.png" alt="Your image title" width="70"/>
+## Web Developer: <img src="https://user-images.githubusercontent.com/66857623/158086615-8ba71ad3-b966-43c1-ab2b-da169244c19c.png" alt="Your image title" width="60"/>
 
 - [GuillermoTorrez/crmprojects](https://github.com/GuillermoTorrez/crmproyects) Python - framework Django.
 
