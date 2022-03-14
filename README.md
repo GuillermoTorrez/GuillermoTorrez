@@ -2,7 +2,7 @@
 
 # Relevant Projects:
 
-## Data Science: <img src="https://user-images.githubusercontent.com/66857623/154593273-589f3329-f72e-4f6c-a16c-8fe1c269a060.png" alt="Your image title" width="100"/>
+## Data Science: <img src="https://user-images.githubusercontent.com/66857623/154593273-589f3329-f72e-4f6c-a16c-8fe1c269a060.png" alt="Your image title" width="150"/>
 
 - [GuillermoTorrez/NLP-NLTK](https://github.com/GuillermoTorrez/NLP-NLTK) Text comment classification (natural language processing) in Python using nltk package and Adaboost, Random Forest, Decision Tree, SVM and Logistic Regression models The output results showing the accuracy above 94%.
 
@@ -14,7 +14,7 @@
   
 - [GuillermoTorrez/ShopifyChallenge2022](https://github.com/GuillermoTorrez/ShopifyChallenge2022) Shopyfy Internship Challenge 2022. <img src="https://user-images.githubusercontent.com/66857623/154747838-1e9ab423-2858-4682-b136-bffbfc4de114.png" alt="Your image title" width="25"/>
   
-## Big Data: SQL - Hadoop, Hive
+## Big Data: SQL - Hadoop, Hive <img src="https://user-images.githubusercontent.com/66857623/158087416-0a599233-a448-41d4-a109-2d8f5b6426e2.png" alt="Your image title" width="150"/>
 
 - [GuillermoTorrez/SQL_Database](https://github.com/GuillermoTorrez/SQL_Database) - Bank database implementation in SQL by loading and organizing client’s information in relational database.
 
