@@ -1,9 +1,6 @@
-<img src="https://user-images.githubusercontent.com/66857623/156006300-180581ff-bff8-4ee6-ae2a-75a2c03bc23b.png" alt="Your image title" width="200"/>
-<img src="https://user-images.githubusercontent.com/66857623/154593273-589f3329-f72e-4f6c-a16c-8fe1c269a060.png" alt="Your image title" width="200"/>
-
 # Relevant Projects:
 
-## Data Science: <img src="https://user-images.githubusercontent.com/66857623/156006300-180581ff-bff8-4ee6-ae2a-75a2c03bc23b.png" alt="Your image title" width="150"/>
+## Data Science: <img src="https://user-images.githubusercontent.com/66857623/154593273-589f3329-f72e-4f6c-a16c-8fe1c269a060.png" alt="Your image title" width="150"/>
 
 - [GuillermoTorrez/NLP-NLTK](https://github.com/GuillermoTorrez/NLP-NLTK) Text comment classification (natural language processing) in Python using nltk package and Adaboost, Random Forest, Decision Tree, SVM and Logistic Regression models The output results showing the accuracy above 94%.
 
