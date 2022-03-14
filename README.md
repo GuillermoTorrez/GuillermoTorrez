@@ -22,9 +22,11 @@
 ## Visualization: Dashboard - Tableau
 - [GuillermoTorrez/Dashboard](https://github.com/GuillermoTorrez/DASHBOARD) - DashBoard in Tableau making out diferents ratios.
 
+<img src="https://user-images.githubusercontent.com/66857623/158086856-37ad5047-1684-4a63-a3ec-c6cbf398b903.png" alt="Your image title" width="70"/>
+
 ## Web Developer:
 
-<img src="https://user-images.githubusercontent.com/66857623/158086615-8ba71ad3-b966-43c1-ab2b-da169244c19c.png" alt="Your image title" width="100"/>
+<img src="https://user-images.githubusercontent.com/66857623/158086615-8ba71ad3-b966-43c1-ab2b-da169244c19c.png" alt="Your image title" width="70"/>
 
 - [GuillermoTorrez/crmprojects](https://github.com/GuillermoTorrez/crmproyects) Python - framework Django.
 
