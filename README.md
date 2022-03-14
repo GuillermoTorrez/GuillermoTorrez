@@ -15,7 +15,7 @@
   
 - [GuillermoTorrez/ShopifyChallenge2022](https://github.com/GuillermoTorrez/ShopifyChallenge2022) Shopyfy Internship Challenge 2022. <img src="https://user-images.githubusercontent.com/66857623/154747838-1e9ab423-2858-4682-b136-bffbfc4de114.png" alt="Your image title" width="25"/>
   
-## Big Data: SQL - Hadoop, Hive <img src="https://user-images.githubusercontent.com/66857623/158087416-0a599233-a448-41d4-a109-2d8f5b6426e2.png" alt="Your image title" width="60"/>
+## Big Data: SQL - Hadoop, Hive <img src="https://user-images.githubusercontent.com/66857623/158087721-e1cdee66-37b4-4fe3-bf12-3de45140723c.png" alt="Your image title" width="60"/> <img src="https://user-images.githubusercontent.com/66857623/158087416-0a599233-a448-41d4-a109-2d8f5b6426e2.png" alt="Your image title" width="60"/>
 
 - [GuillermoTorrez/SQL_Database](https://github.com/GuillermoTorrez/SQL_Database) - Bank database implementation in SQL by loading and organizing client’s information in relational database.
 
@@ -23,7 +23,7 @@
 
 - [GuillermoTorrez/Dashboard](https://github.com/GuillermoTorrez/DASHBOARD) - DashBoard in Tableau making out diferents ratios.
 
-## Web Developer: <img src="https://user-images.githubusercontent.com/66857623/158086615-8ba71ad3-b966-43c1-ab2b-da169244c19c.png" alt="Your image title" width="70"/>
+## Web Developer: <img src="https://user-images.githubusercontent.com/66857623/158086615-8ba71ad3-b966-43c1-ab2b-da169244c19c.png" alt="Your image title" width="60"/>
 
 - [GuillermoTorrez/crmprojects](https://github.com/GuillermoTorrez/crmproyects) Python - framework Django.
 
