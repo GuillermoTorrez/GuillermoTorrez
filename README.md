@@ -24,7 +24,7 @@
 
 ## Web Developer: <img src="https://user-images.githubusercontent.com/66857623/158086615-8ba71ad3-b966-43c1-ab2b-da169244c19c.png" alt="Your image title" width="70"/>
 
-- [GuillermoTorrez/crmprojects](https://github.com/GuillermoTorrez/crmproyects) Python CRM projects - CRUD framework Django.
+- [GuillermoTorrez/crmprojects](https://github.com/GuillermoTorrez/crmproyects) small CRM project - CRUD framework Pytho - Django.
 
 - [GuillermoTorrez/flask-crud-contacts](https://github.com/GuillermoTorrez/flask-crud-contacts) Python - Flask - Simple CRUD Contacts.
 
