@@ -18,7 +18,7 @@
 
 - Hadoop, BigQuery and Apache Spark. <img src="https://user-images.githubusercontent.com/66857623/158088114-867fb7e4-9daf-4822-b6dc-801d81b5689f.png" alt="Your image title" width="70"/> 
 
-## Visualization: Dashboard - <img src="https://user-images.githubusercontent.com/66857623/158086856-37ad5047-1684-4a63-a3ec-c6cbf398b903.png" alt="Your image title" width="70"/>
+## Visualization: Dashboard on Tableau Public - <img src="https://public.tableau.com/app/profile/guillermo3926/viz/ProjectoTableau-Torrez/MyDashboard" alt="Your image title" width="70"/>
 
 - [GuillermoTorrez/Dashboard](https://github.com/GuillermoTorrez/DASHBOARD) - DashBoard in Tableau making out diferents ratios.
 
