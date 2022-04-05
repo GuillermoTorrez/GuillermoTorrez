@@ -20,7 +20,7 @@
 
 ## Visualization: Dashboard on Tableau Public - <img src="https://public.tableau.com/app/profile/guillermo3926/viz/ProjectoTableau-Torrez/MyDashboard" alt="Your image title" width="70"/>
 
-- [GuillermoTorrez/Dashboard](https://github.com/GuillermoTorrez/DASHBOARD) - DashBoard in Tableau making out diferents ratios.
+- [GuillermoTorrez/Dashboard]https://public.tableau.com/app/profile/guillermo3926/viz/ProjectoTableau-Torrez/MyDashboard) - DashBoard in Tableau making out diferents ratios.
 
 ## Web Developer: <img src="https://user-images.githubusercontent.com/66857623/158086615-8ba71ad3-b966-43c1-ab2b-da169244c19c.png" alt="Your image title" width="70"/>
 
