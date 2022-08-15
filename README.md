@@ -22,9 +22,9 @@
 
 - [GuillermoTorrez/Dashboard](https://public.tableau.com/app/profile/guillermo3926/viz/ProjectoTableau-Torrez/MyDashboard) - DashBoard in Tableau.
 
-## Web Developer: <img src="https://user-images.githubusercontent.com/66857623/158086615-8ba71ad3-b966-43c1-ab2b-da169244c19c.png" alt="Your image title" width="70"/>
+## Web Developer: 
 
-## Python - Django and Flask: <img src="https://user-images.githubusercontent.com/66857623/158086615-8ba71ad3-b966-43c1-ab2b-da169244c19c.png" alt="Your image title" width="70"/>
+## Python - Django and Flask: <img src="https://user-images.githubusercontent.com/66857623/158086615-8ba71ad3-b966-43c1-ab2b-da169244c19c.png" alt="Your image title" width="90"/>
 
 - [GuillermoTorrez/crmprojects](https://github.com/GuillermoTorrez/crmproyects) small CRM project - CRUD framework Python - Django.
 
@@ -38,8 +38,9 @@
 
 - [GuillermoTorrez/myapi](https://github.com/GuillermoTorrez/myapi) Python - Simple API. 
 
-## Java Script - Full Stack MERN : <img src="https://user-images.githubusercontent.com/66857623/184564053-a0d233dc-f6b3-483d-823c-cf82bb4f10eb.png" alt="Your image title" width="70"/>.
+## Java Script - Full Stack MERN : <img src="https://user-images.githubusercontent.com/66857623/184564053-a0d233dc-f6b3-483d-823c-cf82bb4f10eb.png" alt="Your image title" width="90"/>
 
+- [GuillermoTorrez/crmprojects](https://github.com/GuillermoTorrez/crmproyects) simple Task CRUD - Authetication with Supabase and Postgres.
 
 ## My GitHub's Stats
 ![GuillermoTorrez GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoTorrez&show_icons=true&title_color=fff&bg_color=80,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true)
