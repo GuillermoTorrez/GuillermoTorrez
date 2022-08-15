@@ -1,5 +1,3 @@
-<span style="color: green"> Some green text </span>
-
 # Relevant Projects:
 
 # Data Science: <img src="https://user-images.githubusercontent.com/66857623/154593273-589f3329-f72e-4f6c-a16c-8fe1c269a060.png" alt="Your image title" width="250"/>
@@ -26,7 +24,7 @@
 
 ## Web Developer: 
 
-## Python - Django and Flask: <img src="https://user-images.githubusercontent.com/66857623/158086615-8ba71ad3-b966-43c1-ab2b-da169244c19c.png" alt="Your image title" width="90"/>
+### Python - Django and Flask: <img src="https://user-images.githubusercontent.com/66857623/158086615-8ba71ad3-b966-43c1-ab2b-da169244c19c.png" alt="Your image title" width="90"/>
 
 - [GuillermoTorrez/crmprojects](https://github.com/GuillermoTorrez/crmproyects) small CRM project - CRUD framework Python - Django.
 
@@ -40,7 +38,7 @@
 
 - [GuillermoTorrez/myapi](https://github.com/GuillermoTorrez/myapi) Python - Simple API. 
 
-## Java Script - Full Stack MERN : <img src="https://user-images.githubusercontent.com/66857623/184564053-a0d233dc-f6b3-483d-823c-cf82bb4f10eb.png" alt="Your image title" width="90"/>
+### Java Script - Full Stack MERN : <img src="https://user-images.githubusercontent.com/66857623/184564053-a0d233dc-f6b3-483d-823c-cf82bb4f10eb.png" alt="Your image title" width="90"/>
 
 https://github.com/GuillermoTorrez/react-supabase-auth
 
