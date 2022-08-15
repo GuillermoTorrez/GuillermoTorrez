@@ -38,8 +38,7 @@
 
 - [GuillermoTorrez/myapi](https://github.com/GuillermoTorrez/myapi) Python - Simple API. 
 
-## Java Script - Full Stack MERN : <img src="![imagen](https://user-images.githubusercontent.com/66857623/184564053-a0d233dc-f6b3-483d-823c-cf82bb4f10eb.png)
-" alt="Your image title" width="70"/>.
+## Java Script - Full Stack MERN : <img src="https://user-images.githubusercontent.com/66857623/184564053-a0d233dc-f6b3-483d-823c-cf82bb4f10eb.png" alt="Your image title" width="70"/>.
 
 
 ## My GitHub's Stats
