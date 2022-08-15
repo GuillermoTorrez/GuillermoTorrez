@@ -40,7 +40,9 @@
 
 ## Java Script - Full Stack MERN : <img src="https://user-images.githubusercontent.com/66857623/184564053-a0d233dc-f6b3-483d-823c-cf82bb4f10eb.png" alt="Your image title" width="90"/>
 
-- [GuillermoTorrez/crmprojects](https://github.com/GuillermoTorrez/crmproyects) simple Task CRUD - Authetication with Supabase and Postgres.
+https://github.com/GuillermoTorrez/react-supabase-auth
+
+- [GuillermoTorrez/react-supabase-auth](https://github.com/GuillermoTorrez/react-supabase-auth) simple Task CRUD using React App and Authentication with Supabase and postgresql. Deploy in Heroku https://task-app-auth.herokuapp.com/login
 
 ## My GitHub's Stats
 ![GuillermoTorrez GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoTorrez&show_icons=true&title_color=fff&bg_color=80,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true)
