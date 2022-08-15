@@ -1,4 +1,4 @@
-<div style="font-family: 'Cascadia code',Consolas, 'Courier New', monospace">
+<div style="font-family: 'Cascadia code'">
 
 # Relevant Projects:
 
