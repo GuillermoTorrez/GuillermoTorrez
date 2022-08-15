@@ -1,4 +1,4 @@
-<div style="font-family: Verdana, Arial, Helvetica, sans-serif">
+<div style="font-family: 'Cascadia code',Consolas, 'Courier New', monospace">
 
 # Relevant Projects:
 
