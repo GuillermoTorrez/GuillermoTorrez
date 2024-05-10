@@ -6,7 +6,7 @@
   
 ## Web Developer: 
 
-### Java Script - Full Stack MERN : <img src="https://user-images.githubusercontent.com/66857623/184564053-a0d233dc-f6b3-483d-823c-cf82bb4f10eb.png" alt="Your image title" width="90"/>
+### Java Script - Full Stack MERN
 
 https://github.com/GuillermoTorrez/react-supabase-auth
 
